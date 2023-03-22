@@ -1,6 +1,6 @@
 # JavaProject
 
-> Student Database Application
+> #Student Database Application
 
 *Scenario: You are a Database Administrator for a university and need to create an application to manage student enrollments and balance.*
 - You application should do the following:
